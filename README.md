@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center">Hello 👋</div>
 
 <!--
 **daynual/daynual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
